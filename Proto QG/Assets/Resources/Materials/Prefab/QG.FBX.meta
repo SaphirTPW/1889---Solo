@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 99b496afd6cc4574ab4f358852d72f43
+timeCreated: 1477928661
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box001 1
+    100004: Box0010
+    100006: Box0015
+    100008: Box002
+    100010: Box002 1
+    100012: Box003
+    100014: Box003 1
+    100016: Box004
+    100018: Box005
+    100020: Box006
+    100022: Box007
+    100024: Box016
+    100026: Box017
+    100028: Box018
+    100030: Box019
+    100032: Box020
+    100034: Box021
+    100036: Bureau
+    100038: 'Cache '
+    100040: Chaise
+    100042: Interrupteur
+    100044: Lampe
+    100046: //RootNode
+    100048: Socle
+    100050: Tiroirs
+    100052: Tiroirs 1
+    100054: Tiroirs 2
+    100056: Tiroirs 3
+    100058: Tiroirs 4
+    100060: Tiroirs 5
+    100062: Tiroirs 6
+    100064: Tiroirs 7
+    100066: Tiroirs 8
+    400000: Box001
+    400002: Box001 1
+    400004: Box0010
+    400006: Box0015
+    400008: Box002
+    400010: Box002 1
+    400012: Box003
+    400014: Box003 1
+    400016: Box004
+    400018: Box005
+    400020: Box006
+    400022: Box007
+    400024: Box016
+    400026: Box017
+    400028: Box018
+    400030: Box019
+    400032: Box020
+    400034: Box021
+    400036: Bureau
+    400038: 'Cache '
+    400040: Chaise
+    400042: Interrupteur
+    400044: Lampe
+    400046: //RootNode
+    400048: Socle
+    400050: Tiroirs
+    400052: Tiroirs 1
+    400054: Tiroirs 2
+    400056: Tiroirs 3
+    400058: Tiroirs 4
+    400060: Tiroirs 5
+    400062: Tiroirs 6
+    400064: Tiroirs 7
+    400066: Tiroirs 8
+    2300000: Box001
+    2300002: Box001 1
+    2300004: Box0010
+    2300006: Box0015
+    2300008: Box002
+    2300010: Box002 1
+    2300012: Box003
+    2300014: Box003 1
+    2300016: Box004
+    2300018: Box005
+    2300020: Box006
+    2300022: Box007
+    2300024: Box016
+    2300026: Box017
+    2300028: Box018
+    2300030: Box019
+    2300032: Box020
+    2300034: Box021
+    2300036: Bureau
+    2300038: 'Cache '
+    2300040: Chaise
+    2300042: Interrupteur
+    2300044: Lampe
+    2300046: Socle
+    2300048: Tiroirs
+    2300050: Tiroirs 1
+    2300052: Tiroirs 2
+    2300054: Tiroirs 3
+    2300056: Tiroirs 4
+    2300058: Tiroirs 5
+    2300060: Tiroirs 6
+    2300062: Tiroirs 7
+    2300064: Tiroirs 8
+    3300000: Box001
+    3300002: Box001 1
+    3300004: Box0010
+    3300006: Box0015
+    3300008: Box002
+    3300010: Box002 1
+    3300012: Box003
+    3300014: Box003 1
+    3300016: Box004
+    3300018: Box005
+    3300020: Box006
+    3300022: Box007
+    3300024: Box016
+    3300026: Box017
+    3300028: Box018
+    3300030: Box019
+    3300032: Box020
+    3300034: Box021
+    3300036: Bureau
+    3300038: 'Cache '
+    3300040: Chaise
+    3300042: Interrupteur
+    3300044: Lampe
+    3300046: Socle
+    3300048: Tiroirs
+    3300050: Tiroirs 1
+    3300052: Tiroirs 2
+    3300054: Tiroirs 3
+    3300056: Tiroirs 4
+    3300058: Tiroirs 5
+    3300060: Tiroirs 6
+    3300062: Tiroirs 7
+    3300064: Tiroirs 8
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Bureau
+    4300008: Tiroirs
+    4300010: Tiroirs
+    4300012: Tiroirs
+    4300014: Tiroirs
+    4300016: Tiroirs
+    4300018: Tiroirs
+    4300020: Tiroirs
+    4300022: Tiroirs
+    4300024: Tiroirs
+    4300026: Box001
+    4300028: Box002
+    4300030: Box003
+    4300032: Box004
+    4300034: Box005
+    4300036: Box006
+    4300038: Box007
+    4300040: Box0010
+    4300042: Box0015
+    4300044: Lampe
+    4300046: Socle
+    4300048: Interrupteur
+    4300050: 'Cache '
+    4300052: Box016
+    4300054: Box017
+    4300056: Box018
+    4300058: Box019
+    4300060: Chaise
+    4300062: Box020
+    4300064: Box021
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
